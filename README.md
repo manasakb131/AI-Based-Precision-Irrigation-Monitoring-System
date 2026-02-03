@@ -36,7 +36,7 @@ Instead of controlling irrigation systems automatically, it provides clear, expl
 - Low trust in fully automated irrigation systems
 - Our Solution
 
-#Using IBM watsonx.ai, IBM Granite foundation models, and LangFlow, this system:
+# Using IBM watsonx.ai, IBM Granite foundation models, and LangFlow, this system:
 
 Collects real-time environmental data
 
