@@ -1,12 +1,12 @@
 # AI-Based-Precision-Irrigation-Monitoring-System
 
-#Why This Project?
+# Why This Project?
 
 Water scarcity and inefficient irrigation are major challenges in modern agriculture. Most farmers still rely on fixed schedules or intuition, leading to water wastage, crop stress, and yield loss.
 
 - This project solves that problem using explainable AI — not automation, but intelligent assistance.
 
-#What Does This System Do?
+# What Does This System Do?
 
 The AI-Assisted Precision Irrigation Monitoring System is an agentic AI–powered decision support platform that helps farmers make smarter irrigation decisions by analyzing:
 
